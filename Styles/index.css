@@ -8,13 +8,13 @@ body{
     max-width: initial;
 }
 .search-bar-btn{
-    background-color: #35f5c6;
+    background-color: #35f5c6 !important;
     border: white;
     max-width: 200px;
     color: #212529;
 }
 .download-btn{
-    background-color: #35f5c6;
+    background-color: #35f5c6 !important;
     border: white;
     color: #212529;
     width: 200px !important;
