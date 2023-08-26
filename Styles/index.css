@@ -1,0 +1,30 @@
+/* .form-control-md{
+ width: 300px;   
+} */
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.form-control{
+    max-width: initial;
+}
+.search-bar-btn{
+    background-color: #35f5c6;
+    border: white;
+    max-width: 200px;
+    color: #212529;
+}
+.download-btn{
+    background-color: #35f5c6;
+    border: white;
+    color: #212529;
+    width: 200px !important;
+    max-width: 200px;
+
+}
+.btn:hover{
+    background-color: white;
+    transition: 0.5;
+}
+.search-bar{
+    border: 1px solid #35f5c6;
+}
