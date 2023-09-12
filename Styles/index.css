@@ -28,3 +28,6 @@ body{
 .search-bar{
     border: 1px solid #35f5c6;
 }
+.developer h3, p{
+    font-size: 20px;
+}
